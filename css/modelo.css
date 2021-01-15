@@ -1,0 +1,12 @@
+body{
+    margin: 20px;
+}
+
+.add{
+    float: right;
+    margin-bottom: 10px;
+}
+
+.modal-header{
+    margin: 5px;
+}
